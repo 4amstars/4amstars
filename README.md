@@ -1,10 +1,15 @@
 ![zz2](https://github.com/user-attachments/assets/e54f4c9f-843b-4ae3-85b3-515c673b739e)
 
 
+Rust is god. It is objectively superior. 
+
+Zig seems to be in hype stage- lots of interest. It has low overhead, and actually has some decent mem safe features for example --
 
 zig build-exe keygen.zig -O ReleaseSafe -dynamic
 
+No where near as safe as rust, but zig is actually interesting. 
 
+Maybe one day Ai will poop out a cross in rust and zig and make the best lang ever ! 
 
 
 
