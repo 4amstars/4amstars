@@ -7,9 +7,9 @@ Zig seems to be in hype stage- lots of interest. It has low overhead, and actual
 
 zig build-exe keygen.zig -O ReleaseSafe -dynamic
 
-No where near as safe as rust, but zig is actually interesting. 
+No where near as safe as rust, but zig is very interesting. 
 
-Maybe one day Ai will poop out a cross in rust and zig and make the best lang ever ! 
+Maybe one day Ai will poop out a cross of rust and zig to make the best lang ever ! 
 
 
 
