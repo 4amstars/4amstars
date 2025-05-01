@@ -1,24 +1,6 @@
 ![zz2](https://github.com/user-attachments/assets/e54f4c9f-843b-4ae3-85b3-515c673b739e)
 
 
-Latest news-
-
-
-
-https://youtu.be/bWXmDvKU1Ww?feature=shared  shocking linux news from djware 
-
-
-
-///////////////////
-
-latest app- 
-
-zig build-exe keygen.zig -O ReleaseSafe -dynamic    
-
-///////////////////
-
-
- 
 
 
 
