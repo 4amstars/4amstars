@@ -2,7 +2,7 @@
 
 
 
-
+zig build-exe keygen.zig -O ReleaseSafe -dynamic
 
 
 
