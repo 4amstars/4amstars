@@ -15,7 +15,7 @@ zig build-exe keygen.zig -O ReleaseSafe -dynamic    No where near as safe as rus
 
 /////////////////////////////////////
 
-If anyone knows of super legit Threefish-1024  or Serpent file encryuption apps let me know. Both are rare, and not many high level libs. 
+If anyone knows of super legit open source Threefish-1024  or Serpent file encryuption apps let me know. Both are rare, and not many high level libs. 
 
 
 
