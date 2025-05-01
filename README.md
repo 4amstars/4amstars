@@ -9,7 +9,7 @@ https://youtu.be/bWXmDvKU1Ww?feature=shared  shocking linux news from djware
 
 
 
-
+///////////////////
 
 zig build-exe keygen.zig -O ReleaseSafe -dynamic    No where near as safe as rust, but zig is interesting. I am starting to be a huge fan of it. 
 
