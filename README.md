@@ -3,11 +3,8 @@
 
 For today, Rust is god. It is objectively superior. Profoundly so. 
 
-Zig seems to be in hype stage- lots of interest. It has low overhead, and actually has some decent mem safe features for example --
 
-zig build-exe keygen.zig -O ReleaseSafe -dynamic
-
-No where near as safe as rust, but zig is very interesting. 
+zig build-exe keygen.zig -O ReleaseSafe -dynamic    No where near as safe as rust, but zig is very interesting. 
 
 Maybe one day Ai will poop out a cross of rust and zig to make the best lang ever ! 
 
