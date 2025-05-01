@@ -5,7 +5,7 @@
 
 
 
-There are lots of apps here that Ai made. Most are simple, one page code base. Rust and Zig. All well checked. The apps are lumped together - there is some really good code in there. Each dir is its own app. Very easy to have Ai audit or make any change you want. So glad ai is here...it makes the apps i could only dream about before the ai era. 
+There are lots of apps here that Ai made. Most are simple, one page code base. Rust and Zig. All well checked. The apps are lumped together - there is some really good code in there. Each dir is its own app. Very easy to have Ai audit or make any change you want. So glad ai is here...it makes the apps i could only dream about before the ai era. Gone are the days of asking vile clowns on stack overflow coding questions and getting rude answers all day long. Hell, Ai makes git less critical... i think git will survive, but it will have to change to a place to showcase the best code Ai made. TO be honesr, for almost every git issue i see, im like why bother or rely on ppl, just have ai give you the instant answer. It is not 1920 any more lol. 
 
 I bounce from linux to windows but due to this video https://youtu.be/bWXmDvKU1Ww?feature=shared by djware  im not going to mess with linux for a while. A long while. My fave linux distros included fedora, qubes OS, tails, popos, and a few more. 
 
