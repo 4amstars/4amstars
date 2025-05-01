@@ -10,7 +10,7 @@ There are lots of apps here that Ai made, simple, one page code base. Rust and Z
 I bounce from linux to windows but due to this video https://youtu.be/bWXmDvKU1Ww?feature=shared by djware  im not going to mess with linux for a while. A long while. 
 
 
-my fav twitter/x acct is @ ghostsecgroup
+my fav twitter/x acct is @ ghostsecgroup  
 
 
 
