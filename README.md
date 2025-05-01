@@ -10,18 +10,6 @@ There are lots of apps here that Ai made. Most are simple, one page code base. R
 Ai has a way of giving code, claiming it is awesonme, then roasting the code next time you ask it to be audited. I am in tune with Ai tho... and each app is made by ai then well tested. I do not just have ai poop out apps and then upload them to git instantly. All the apps are verified to compile and work. If you search git you usually find 5 year old apps where someone started the app then abandoned it. More and more well coded ai apps are showing up. A couple of my repos are funny-- they are dozens of great apps all in one repo. Of note- all the apps that i have chatgpt make are without restriction. Do what you want with the code. 
 
 
-I bounce from linux to windows but due to this video https://youtu.be/bWXmDvKU1Ww?feature=shared by djware  im not going to mess with linux for a while. A long while. My fave linux distros included fedora, qubes OS, tails, popos, and a few more. 
-
-
-my fav twitter/x acct is @ ghostsecgroup  
-
-
-It really sucks that no one gives a crap bout personal sites any more, (so only delusional people try to make websites lol) but at least Ai stepped in to fill the very real void. Ai is
-exciting and empowering. Learning to code is laughable- just have ai make your apps in any lang. 
-
- usaf vet (p&t)  
-
-I play chess on the daily- unless working on something interesting when having ai make apps. 
 
 
 ![zz1](https://github.com/user-attachments/assets/26522f0b-7f6e-43b8-9298-d24958cd6ec4)
