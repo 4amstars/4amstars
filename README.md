@@ -18,7 +18,7 @@ exciting and empowering. Learning to code is laughable- just have ai make your a
 
  usaf vet (p&t)  
 
-
+I play chess on the daily- unless working on something interesting when having ai make apps. 
 
 
 ![zz1](https://github.com/user-attachments/assets/26522f0b-7f6e-43b8-9298-d24958cd6ec4)
