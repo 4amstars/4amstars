@@ -5,7 +5,7 @@
 
 
 
-There are lots of apps here that Ai made. Most are simple, one page code base. Rust and Zig. All well checked. The apps are lumped together - there is some really good code in there. 
+There are lots of apps here that Ai made. Most are simple, one page code base. Rust and Zig. All well checked. The apps are lumped together - there is some really good code in there. As Ai improves, so will the quality of the apps. 
 
 I bounce from linux to windows but due to this video https://youtu.be/bWXmDvKU1Ww?feature=shared by djware  im not going to mess with linux for a while. A long while. My fave linux distros included fedora, qubes OS, tails, popos, and a few more. 
 
