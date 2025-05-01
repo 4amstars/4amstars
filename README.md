@@ -1,12 +1,22 @@
 ![zz2](https://github.com/user-attachments/assets/e54f4c9f-843b-4ae3-85b3-515c673b739e)
 
 
-For today, Rust is god. It is objectively superior. Profoundly so. 
+Latest news-
 
 
-zig build-exe keygen.zig -O ReleaseSafe -dynamic    No where near as safe as rust, but zig is very interesting. 
 
-Maybe one day Ai will poop out a cross of rust and zig to make the best lang ever ! 
+https://youtu.be/bWXmDvKU1Ww?feature=shared  shocking linux news from djware 
+
+
+
+
+
+zig build-exe keygen.zig -O ReleaseSafe -dynamic    No where near as safe as rust, but zig is interesting. 
+
+Zig seemed like another "non-profit" scam at first. It seems more legit now tho, even as there is
+
+not enough support for it yet. 
+
 
 
 
