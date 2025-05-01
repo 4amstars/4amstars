@@ -11,6 +11,8 @@ https://youtu.be/bWXmDvKU1Ww?feature=shared  shocking linux news from djware
 
 ///////////////////
 
+latest app- 
+
 zig build-exe keygen.zig -O ReleaseSafe -dynamic    
 
 
