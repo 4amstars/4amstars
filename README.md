@@ -2,7 +2,7 @@
 
 
 
- usaf vet (p&t) 
+
 
 
 There are lots of apps here that Ai made, simple, one page code base. Rust and Zig. 
@@ -14,7 +14,9 @@ my fav twitter/x acct is @ ghostsecgroup
 
 
 It really sucks that no one gives a crap bout personal sites any more, (so only delusional people try to make websites lol) but at least Ai stepped in to fill the very real void. Ai is
-exciting and empowering. Learning to code is laughable- just have ai make your apps in any lang.
+exciting and empowering. Learning to code is laughable- just have ai make your apps in any lang. 
+
+ usaf vet (p&t)  
 
 
 
