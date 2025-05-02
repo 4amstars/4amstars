@@ -5,8 +5,6 @@
 
 
 
-Oh, and spare me the “code of conduct” nonsense for languages. It’s not a kindergarten class—grown-ups should have enough sense to act right. Some folks just get a kick out of controlling others, slapping pointless rules on a language to flex their virtue. Lame.
-
 
  
 
