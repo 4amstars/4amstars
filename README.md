@@ -11,6 +11,8 @@ Ai will one day draw upon all the toiling of years of lang dev. It will one day 
 
 Lastly, no one needs a code of conduct for a lang. Common sense should prevail. People seem to get off by control of other people- for example making silly code of conduct for a lang in order to virtue signal. Third grade school children benefit from a code of conduct so they can learn to function in society. Langs are not a third grade classroom. 
 
+So to recap, Rust is god for today, Zig is powerful, that is why both are found on my repos. 
+
 
 
 
