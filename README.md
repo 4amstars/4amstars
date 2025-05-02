@@ -9,6 +9,8 @@ Zig is interesting. I am ALWAYS skeptical of any non-profit-, as so many are sca
 
 Ai will one day draw upon all the toiling of years of lang dev. It will one day make a lang that is out of the box superior to anything we have so far. It will be a great day, and the new lang will be worth learning. Till then, i do not bother learning Rust or Zig- because my standards are higher than what both currently offer. Besides, Ai can make decent apps in either lang.
 
+Lastly, no one needs a code of conduct for a lang. Common sense should prevail. People seem to get off by control of other people- for example making silly code of conduct for a lang in order to virtue signal. Politics are vile, and the true spirit of what the founders of the internet intended is mostly gone. 
+
 
 
 
