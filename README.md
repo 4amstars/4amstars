@@ -7,7 +7,7 @@ Rust is the undisputed champ right now, and no amount of flashy YouTube vids hyp
 
 Oh, and spare me the “code of conduct” nonsense for languages. It’s not a kindergarten class—grown-ups should have enough sense to act right. Some folks just get a kick out of controlling others, slapping pointless rules on a language to flex their virtue. Lame.
 
-So, quick wrap: Rust rules for now, Zig’s got potential, and AI codes my Rust and Zig repos. 
+So, quick wrap: Rust rules for now, Zig’s got potential, and AI codes all my Rust and Zig stuff.
 
  
 
