@@ -7,7 +7,19 @@
 
  Objectively, Rust is god (for today). That will change when ai draws on rust's years of dev as a starting point and produces a superior lang. Then, Rust will be laughable. 
 
+
+
+
  Zig is okay as long as it is a single file app that Ai can audit. Zig dev is light years behind rust tho - and the 4 person zig dev team may enjoy the bloated paychecks from your "nonprofit"- but that is not how to grow and dev a lang. Literally, almost every nonprofit is a laughable scam. Nevertheless, one can compile a single page of zig code to a very powerful app. So i f-w zig maybe about 5 percent of my time, just for fun. 
+
+
+# Code Of Misconduct 
+
+Let’s be real: the folks inventing Codes of Conduct are the ultimate control freaks—clearly harboring some serious personal issues if they need to regulate every interaction as if they’re running a preschool. These lunatics seem to think adult developers can’t handle a stray swear or a questionable joke without a permission slip. Enough with the power trip; we’re here to write code, not color inside someone’s arbitrary lines.
+
+
+Rust and Zig strutting around like hall monitors with their shiny new Codes of Conduct—what is this, recess? Last I checked, we weren’t finger-painting or trading snacks; we’re grown adults who can handle a stray swear or two without a teacher swooping in with a red pen. If you’re writing compilers instead of coloring inside the lines, you probably don’t need a permission slip for “Be Nice™” taped to your README. So next time someone asks you to RSVP to the etiquette committee before pushing code, just smile, drop that COC folder in the trash, and get back to actual programming—no timeout required.
+
 
 
 
