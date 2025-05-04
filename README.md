@@ -20,7 +20,9 @@ Let’s be real: the folks inventing Codes of Conduct are the ultimate control f
 
 Rust and Zig strutting around like hall monitors with their shiny new Codes of Conduct—what is this, recess? Last I checked, we weren’t finger-painting or trading snacks; we’re grown adults who can handle a stray swear or two without a teacher swooping in with a red pen. If you’re writing compilers instead of coloring inside the lines, you probably don’t need a permission slip for “Be Nice™” taped to your README. So next time someone asks you to RSVP to the etiquette committee before pushing code, just smile, drop that COC folder in the trash, and get back to actual programming—no timeout required.
 
+# Code Of Conduct 
 
+Let your code speak for itself. 
 
 
 ![zz1](https://github.com/user-attachments/assets/26522f0b-7f6e-43b8-9298-d24958cd6ec4)
