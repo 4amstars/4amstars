@@ -22,7 +22,7 @@ Rust and Zig strutting around like hall monitors with their shiny new Codes of C
 
 # Final Words
 
-Let your code speak for itself. Make the best dam app possible- no bs, no bloat. The days of rude clowns answering questions with rude answers on stack overflow are gone forever! Why post a question to stack overflow when Ai can give you an instant answer? 
+Let your code speak for itself. Make the best dam app possible- no bs, no bloat. The days of clowns answering questions with rude answers on stack overflow are gone forever! Why post a question to stack overflow when Ai can give you an instant answer? 
 
 
 ![zz1](https://github.com/user-attachments/assets/26522f0b-7f6e-43b8-9298-d24958cd6ec4)
