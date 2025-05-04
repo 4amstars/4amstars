@@ -10,7 +10,7 @@ MVC pattern is something they teach to new coders to keep them busy with stupidi
 
 
 
- Zig is okay as long as it is a single file app that Ai can audit. Zig dev is light years behind rust tho - and the 4 person zig dev team may enjoy the bloated paychecks from your "nonprofit"- but that is not how to grow and dev a lang. Literally, almost every nonprofit is a laughable scam. Nevertheless, one can compile a single page of zig code to a very powerful app. So i f-w zig maybe about 5 percent of my time, just for fun. 
+ Zig is okay as long as it is a single file app that Ai can audit. Zig dev is light years behind rust tho - and the 4 person zig dev team may enjoy the bloated paychecks from the zig "nonprofit"- but that is not how to grow and dev a lang. Literally, almost every nonprofit is a laughable scam. Nevertheless, one can compile a single page of zig code to a very powerful app. So i f-w zig maybe about 5 percent of my time, just for fun. 
 
 
 # Code Of Misconduct 
