@@ -28,7 +28,7 @@ Except @lauriewired tho, she is my fave and always puts her entire heart into he
 
 # Knowledge Is Free
 
-Like true anons would say back in the day-, Knowledge Is Free. If you do not know what that means... you prolly never will. 
+Like true anons would say back in the day-, Knowledge Is Free. If you do not know what that means... you prolly never will. Stay Frosty. 
 
 
 ![zz1](https://github.com/user-attachments/assets/26522f0b-7f6e-43b8-9298-d24958cd6ec4)
