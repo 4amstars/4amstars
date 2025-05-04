@@ -20,11 +20,15 @@ Let’s be real: the folks inventing Codes of Conduct are the ultimate control f
 
 Rust and Zig strutting around like hall monitors with their shiny new Codes of Conduct—what is this, recess? Last I checked, we weren’t finger-painting or trading snacks; we’re grown adults who can handle a stray swear or two without a teacher swooping in with a red pen. If you’re writing compilers instead of coloring inside the lines, you probably don’t need a permission slip for “Be Nice™” taped to your README. So next time someone asks you to RSVP to the etiquette committee before pushing code, just smile, drop that COC folder in the trash, and get back to actual programming—no timeout required.
 
-# Final Words
+# Time is the enemy
 
 Let your code speak for itself. Make the best dam app possible- no bs, no bloat. The days of clowns answering questions with rude answers on stack overflow are gone forever! Why post a question to stack overflow when Ai can give you an instant answer? Why waste hours of time on a prime/theo/bash video that literally makes you stupider, goes in circles and is a crime against humanity? You could get more from a 2 minute session with Ai. 
 
 Except @lauriewired tho, she is my fave and always puts her entire heart into her videos. 
+
+# Knowledge Is Free
+
+Like true anons would say back in the day-, Knowledge Is Free. If you do not know what that means... you prolly never will. 
 
 
 ![zz1](https://github.com/user-attachments/assets/26522f0b-7f6e-43b8-9298-d24958cd6ec4)
